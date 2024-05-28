@@ -1,0 +1,19 @@
+{
+  "name": "faceswap",
+  "version": "1.0.0",
+  "description": "A morphing tool for Images",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^5.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  }
+}
